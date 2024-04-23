@@ -1,2 +1,8 @@
 # web_DEV
 Website
+
+JSP
+ORACLE
+DOCKER
+BOOTSTRAP
+
